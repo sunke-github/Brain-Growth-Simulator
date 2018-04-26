@@ -1,2 +1,2 @@
 # Brain-Growth-Simulator
-Using hebb ruler and delta ruler to simulate the growth of the brain.
+Neuron is a kind of cell that consumes nutrition in our body. I use the hebb rule, delta rule and survival model to build a simulator to explore the way of the neuron organization and why a group of neurons can evolve to intelligence.
